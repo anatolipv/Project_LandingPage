@@ -1,2 +1,2 @@
 # Project_LandingPage
-first project for entire webpage
+first project from scratch
